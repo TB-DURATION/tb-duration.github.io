@@ -1,0 +1,13 @@
+---
+title: "TB-DURATION study"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+List of projects in the TB-DURATION study:
+
+* **mice:** using experimental results in mice to work out possible short duration of treatment
+in humans. [HTML](https://tb-duration.github.io/mice/analysis.html)
+[code+data](https://github.com/TB-DURATION/mice)
