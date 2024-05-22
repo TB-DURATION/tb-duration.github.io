@@ -8,6 +8,14 @@ editor_options:
 
 List of projects in the TB-DURATION study:
 
-* **mice:** using experimental results in mice to work out possible short duration of treatment
-in humans. [HTML](https://tb-duration.github.io/mice/analysis.html)
+* **igra_decay_power:** sample size calculation to estimate the rate of decay of IGRA+
+in a population. [HTML](https://tb-duration.github.io/igra_decay_power/sample_size.html)
+[code+data](https://github.com/TB-DURATION/igra_decay_power)
+
+* **mice:** using experimental results in mice to work out possible short duration of
+treatment in humans. [HTML](https://tb-duration.github.io/mice/analysis.html)
 [code+data](https://github.com/TB-DURATION/mice)
+
+* **tpt_model:** model exploration of short duration targeted prophylactic policy
+against tuberculosis. [HTML](https://tb-duration.github.io/tpt_model/tpt_model2.html)
+[code+data](https://github.com/TB-DURATION/tpt_model)
